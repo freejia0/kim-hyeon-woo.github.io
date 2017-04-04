@@ -1,0 +1,50 @@
+body{ margin:0; background: #efefef; }
+
+.header{ text-align: center;
+    	font-family: fantasy;
+    	color:#D5D5D5;
+   	 	font-size: 50px;
+   	 	background-color:black;
+		 }
+
+.banner{ text-align: center;
+		font-family:serif;
+		background-color: #5D5D5D; 
+		}
+
+.wrap{ background-color:#BDBDBD;
+		}
+
+.title1{ width: 30%; margin: 0 1.5% 20px; float: left;} 
+
+.title2{ width: 30%; margin: 0 1.5% 20px; float: left;}
+
+.title3{ width: 30%; margin: 0 1.5% 20px; float: left;}
+
+.bigmac{ display: none; position: absolute; }
+
+.whopper{ display: none; position: absolute; }
+
+.menu{ display: none; position: absolute; }
+
+.footer{ text-align: center;
+		font-size: 40px;
+		font-family: sans-serif;
+		}
+
+.comment{ text-align: center;
+		font-size: 40px;
+		font-family: serif;
+		}
+
+.title1:hover { transform: scale(1.05); }
+
+.title2:hover { transform: scale(1.05); }
+
+.title3:hover { transform: scale(1.05); }
+
+
+img{ width:300px; 
+ 	height: 300px;
+	padding: 50px;
+    }
